@@ -1,4 +1,4 @@
-sudo pip install --upgrade django==1.9.4
+
 sudo pip install --upgrade gunicorn==19.4.5
 
 sudo rm /etc/nginx/sites-enabled/default
